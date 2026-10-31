@@ -13,6 +13,10 @@
 ### Actual Lesson
 
 - Review
+    - Eleusis
+        - Active learning: choosing your own experiments
+        - Feature engineering: a model only learns what its features can express
+        - Scientific method with machines
     - Types of learning (supervised, unsupervised, reinforcement)
     - Types of classifiers (bayesian, decision trees)
     - Properties of trees
@@ -41,4 +45,5 @@
 ### Homework
 
 - Start thinking about/working on teaching unit
-- Adv. Data Structures 15 - XXX
+- Adv. Data Structures 15 - 18 (WIP: was `15 - XXX`; filled in to meet PRIMM
+  day 1's `19 - 20`)

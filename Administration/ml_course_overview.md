@@ -119,6 +119,7 @@
 - Differentiate between the major techniques used in machine learning
 - Visualize ways that data can be grouped and classified
 - Utilize techniques to prevent over-fitting of data
+- Design experiments to uncover a hidden rule, and recognize what rules models can learn
 - Draw analogies between the ways humans learn and the way machines learn
 - Understand what it feels like to learn and how to be intentional in acquiring knowledge
 
@@ -126,6 +127,7 @@
 
 - How do humans learn best?
 - What techniques do researchers use to help machines learn?
+- How do scientists (and machines) discover rules they can't see?
 - Why is abstraction essential when solving complex problems?
 
 #### Formative Assessments:

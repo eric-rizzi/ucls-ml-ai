@@ -28,6 +28,8 @@
 - Write for 5m answering one of the essential questions:
     - Questions:
         - What does it mean to know something?
+            - Callback: in Eleusis, could you predict the dealer before you
+              could state the rule? Did you "know" it? (WIP: Eleusis callback)
         - How important is originality for individuals and society?
         - How is ChatGPT different from the technologies that preceded it?
     - Use timer to make clear

@@ -12,10 +12,12 @@ learn to create decision trees and what features lead to the best tree
 
 ### Setup
 
+- Up to date data in `artifacts/guess_who_data_*.csv` that represents game
+- Weka and data installed on classroom computers:
+    - https://ml.cms.waikato.ac.nz/weka
+    - `artifacts/guess_who_data_*.csv`
 - Enough games of "Guess Who" for every student in the class
 - Paper for them to draw their decision trees
-- Up to date data in `guess_who_data_*.csv` that represents game
-- `science_of_learning.docx` printed out
 
 ### Actual Lesson
 
@@ -77,4 +79,4 @@ learn to create decision trees and what features lead to the best tree
 
 ### Homework
 
-- Read `science_of_learning.docx` and prepare for discussion
+- Adv. Data Structure Wheaties 9 - 11

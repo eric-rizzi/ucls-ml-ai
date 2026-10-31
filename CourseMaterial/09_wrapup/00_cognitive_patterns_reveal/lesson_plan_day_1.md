@@ -28,17 +28,17 @@ recognition of a skill developed, not a gotcha.
 ### Actual Lesson
 
 - Candle problem (~20m)
-    - Split class — half get matches in the matchbox, half get matches loose
+    - Split class - half get matches in the matchbox, half get matches loose
     - Give 5m to solve
     - Reveal the manipulation: framing changed your performance
     - Debrief: "Your mind has invisible architecture, and that architecture is
       manipulable by framing. You just experienced it."
-    - Name this as **functional fixedness** — a different kind of blind spot
+    - Name this as **functional fixedness** - a different kind of blind spot
       than the ones on our reference page. Not motivated reasoning, but still
       invisible architecture that shapes your thinking without your awareness.
     - Sit with that for a moment. Don't rush to connect it to the reference page yet.
 - Transition (~5m)
-    - "We've spent the year naming patterns in other people's thinking — bots,
+    - "We've spent the year naming patterns in other people's thinking - bots,
       authors, hypothetical 9th graders. The candle problem just showed you a
       blind spot in your own thinking that had nothing to do with motivation.
       Now let's look at the ones that do."
@@ -50,10 +50,11 @@ recognition of a skill developed, not a gotcha.
     - Walk through specific moments from the course where the patterns appeared
         - Agreement bias in ChatBot interactions
         - Automation bias in trusting CI/CD or AI suggestions
-        - The pre-mortems — did your imagined failures match actual ones?
+        - Confirmation bias in Eleusis and asking AI questions
+        - The pre-mortems - did your imagined failures match actual ones?
 - Closing reflection (~10m)
     - The vocabulary you sharpened on the bot, on authors, on hypothetical 9th
-      graders — it applies to you
+      graders - it applies to you
     - Frame as a skill developed, not a flaw revealed
     - Connect to AI: the systems you will use for the rest of your lives are
       tuned to exploit these exact heuristics. The defense is calibration, not

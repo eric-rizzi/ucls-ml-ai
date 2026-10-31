@@ -42,3 +42,12 @@
 
 - Read "The Purpose of Grades" and annotate
     - Will check annotations
+
+### Possible Extensions
+
+- Candidate new problems:
+    - Eleusis callback: create a function that takes a list of cards and returns
+      the cards an Eleusis dealer would accept under the rule "alternate red and
+      black." Cards are NamedTuples with `rank` (int) and `suit` (str).
+      The first card is always accepted; each later card is accepted only
+      if its color differs from the last _accepted_ card.

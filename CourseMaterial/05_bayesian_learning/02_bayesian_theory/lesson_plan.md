@@ -45,6 +45,10 @@ nights homework).
     - Chance of a hit
     - Chance of a hit given it's Eric
     - Chance of a hit given it's Eric, given it's raining
+    - Eleusis callback (WIP)
+        - P(Accepted | Red) was a coin flip: 52%
+        - P(Accepted | Red, Prev Black) = 100%
+        - Knowing the right "given" is the whole game
 - What is going on here?
     - Big idea of Bayesian Probability
         - Updating probabilities (denominator) based on what you know
