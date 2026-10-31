@@ -8,7 +8,7 @@
 This mini-unit (2-3 classes) is the "inward turn" of the cognitive patterns
 thread. Students have spent the year naming biases in ChatBot output, article
 arguments, and hypothetical 9th graders. Now they discover that the same
-patterns apply to their own thinking. The reveal should feel earned — a
+patterns apply to their own thinking. The reveal should feel earned - a
 recognition of a skill developed, not a gotcha.
 
 > Note: The candle problem is the catalyst. Both variants (matches in matchbox

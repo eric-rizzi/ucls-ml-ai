@@ -14,12 +14,9 @@ test them. This jumps from classification to scientific induction.
 Day 1 is the game and the "how does science work?" debrief. Day 2 takes the
 game into Weka.
 
-> Note: Lesson 1 and Lesson 2 can likely be combined into a single 75m long block
-
 ### Setup
 
-- One deck of standard playing cards per group of 4-5 students
-    - Can do two decks shuffled together -> rounds run longer
+- Two decks of standard playing cards per group of 4-5 students
 - Index cards with secret rules for dealers (see `Dealer rules` below)
 
 ### Actual Lesson
@@ -44,23 +41,23 @@ game into Weka.
           least one should catch a wrong implementation"
             - A test you know will pass is a 2-4-6 triple
 - Explain simplified Eleusis (~5m)
-    - One dealer per group writes a secret rule on an index card (or hand them
-      one from `Dealer rules`)
-    - Deal 8 cards to each player; dealer flips one starter card face up
+    - One dealer (god) per group writes a secret rule on an index card (or hand
+      them one from `Dealer rules`)
+    - God deals 10 cards to each player; god flips one starter card face up
     - On your turn, play one card to the right of the last accepted card
-        - Dealer says "yes" -> card stays on the main line
-        - Dealer says "no" -> card goes _below_ the card it tried to follow,
+        - God says "yes" -> card stays on the main line
+        - God says "no" -> card goes _below_ the card it tried to follow,
           and you draw 1 penalty card
     - If you think you have no legal card, say "no play" and show your hand
-        - Dealer is right that nothing works -> pass and draw 1
-        - Dealer finds a legal card -> draw 2
+        - Player is right that nothing works -> Discard 2
+        - Player is wrong and something works -> Draw 4
     - Rejected cards stay on the table, so everyone can study the full record
-    - Round ends when someone runs out of cards or after ~12m
+    - Round ends when someone runs out of cards
     - At the end, every player writes down the rule they think it is
-    - Dealer wins if _at least one_ player got it right but _not everyone_
+    - God wins if _at least one_ player got it right but _not everyone_
         - Forces dealers to pick a rule that's hard but discoverable
 - Round 1: Go! (~12m)
-- Rotate dealers. Round 2 (~12m)
+- Rotate who's god. Round 2 (~12m)
 - Debrief
     - What was your best single card play, and why?
         - Look for students who played cards they expected to be rejected

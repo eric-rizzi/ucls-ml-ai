@@ -14,8 +14,10 @@ apply the correct concept/vocab.
 ### Setup
 
 - Weka installed on necessary computers
+    - https://ml.cms.waikato.ac.nz/weka
     - `UserClassifier` installed via `Explorer` -> `Tools` -> `PackageManager`
-- `wisconsin_breast_cancer` data loaded onto necessary computers
+- Data for Weka loaded onto necessary computers
+    - `wisconsin_breast_cancer`
 - `end_of_theory.docx` article printed out
 
 ### Actual Lesson

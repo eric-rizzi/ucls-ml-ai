@@ -12,8 +12,9 @@ features do.
 
 ### Setup
 
-- Weka and data installed on classroom computers:
+- Weka installed on necessary computers
     - https://ml.cms.waikato.ac.nz/weka
+- Data for Weka loaded onto necessary computers
     - `artifacts/eleusis*.csv`
 - `science_of_learning.docx` printed out
 - Yes/No Game Changer episode ready to go
@@ -88,16 +89,25 @@ features do.
     - Answer key: _same parity (odd/even) as the previous card, OR any face card_
         - Tree splits on `Same Parity as Prev`, then on `Rank <= 10`: 100%
         - Nice moment: "face card" shows up as a numeric threshold the tree invented
-- Wrap up
+- Weka reflection
     - You vs. the tree: who was the better scientist?
         - The tree was faster once it had the right features
         - You chose your own experiments and invented the features
     - Set up the science of learning discussion
         - We just compared how you learn with how a machine learns
         - The reading is about how humans learn best
-- If time:
-    - Watch choice bits of Game Change episode
-        - Funny clip: https://www.youtube.com/watch?v=88et7YlmzTs
+- Watch choice bits of Game Change episode
+    - Note there is some swearing: s-word, d-word
+    - What is Game Changer?
+        - This is what inspired these last two lessons
+    - Watch opening: 0:00 - 10:35
+        - When Zac wins
+    - Does anyone see the pattern?
+    - Watch closing: 16:10 - End
+        - Clip: https://www.youtube.com/watch?v=88et7YlmzTs
+- Wrap up
+    - How was Yes/No similar and how was it different?
+    - Did Ally use the word "theory" correctly?
 
 ### Homework
 

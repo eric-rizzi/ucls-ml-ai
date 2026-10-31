@@ -13,8 +13,10 @@ learn to create decision trees and what features lead to the best tree
 ### Setup
 
 - Up to date data in `artifacts/guess_who_data_*.csv` that represents game
-- Weka and data installed on classroom computers:
+    - The changed game versions in 2014-ish
+- Weka installed on necessary computers
     - https://ml.cms.waikato.ac.nz/weka
+- Data for Weka loaded onto necessary computers
     - `artifacts/guess_who_data_*.csv`
 - Enough games of "Guess Who" for every student in the class
 - Paper for them to draw their decision trees
